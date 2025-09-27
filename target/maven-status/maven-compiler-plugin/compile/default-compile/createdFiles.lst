@@ -1,0 +1,15 @@
+com\negafumasu\quartsinge\data\Robot.class
+com\negafumasu\quartsinge\SingeConstantes.class
+com\negafumasu\quartsinge\data\EnumTypeJoueur.class
+com\negafumasu\quartsinge\ihm\FenetreMenuPrincipal.class
+com\negafumasu\quartsinge\Constants.class
+com\negafumasu\quartsinge\data\Humain.class
+com\negafumasu\quartsinge\ihm\FenetreConfiguration.class
+com\negafumasu\quartsinge\GenericParam.class
+com\negafumasu\quartsinge\ihm\FenetreMenuPrincipal$1.class
+com\negafumasu\quartsinge\data\Joueur.class
+com\negafumasu\quartsinge\ihm\JeuSelectionMode.class
+com\negafumasu\quartsinge\data\EnumModeJeu.class
+com\negafumasu\quartsinge\data\EnumNiveauRobot.class
+com\negafumasu\quartsinge\QuartSinge.class
+com\negafumasu\quartsinge\ihm\FenetreEcranJeu.class

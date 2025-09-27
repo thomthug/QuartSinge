@@ -1,0 +1,4 @@
+modeJeu=CLASSIQUE
+niveauRobot=MOYEN
+fichierDico=C:\Users\thomas.cazako\Documents\Projets_Java\QuartSinge\config\liste_francais_sans_car_spe.txt
+fichierLog=C:\Users\thomas.cazako\Documents\Projets Java\Singe\singe\SingeConfig\liste_francais\singe_logs

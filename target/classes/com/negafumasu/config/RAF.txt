@@ -1,0 +1,36 @@
+RAF:
+- Avant de pouvoir demander le mot auquel on pense verifier qu'il y a au moins 2 lettre dans le mot courant :
+>>>>> Ok !
+
+- Filtrer les mots à 2 lettres du dictionnaire.
+>>>>> OK !
+
+- Vérifier que le mot proposer commence par l'entrée dans le mot courant :
+>>>>> OK !
+
+- Texte proposant au premier joueur de commencer en debut de manche et de partie :
+>>>>> OK !
+
+- Ajouter une scrolls sur la zone de texte qui defile de maniere automatique :
+>>>>> OK !
+
+- Si le mot à une taille inferieur à 2 et que l'on demande ce à quoi pense le joueur precedent, alors dire au joueur que ce n'est pas possible et de proposer une lettre :
+>>>>>
+
+- Creer un fichier 'historique' de partie ou 'log' : 
+>>>>> OK !
+
+- Gerer le thread d'affichage pour les match robot contre robots : 
+>>>>> 
+
+- Selectionner le fichier dictionnaire à partir d'un file chooser :
+
+- Mettre en place un Swing worker pour voir le jeu se derouler lorsque les robots joues :
+
+- Mettre des sleep pour limiter les temps de reponses des robots : 
+
+- Mettre en place le parametrage de la difficulté des robots : 
+
+- Afficher dans une popup les scores actuels :
+
+- Afficher dans une popup les statistiques en jeu ( à découper) :
